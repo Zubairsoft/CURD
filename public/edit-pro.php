@@ -27,7 +27,7 @@
     <title>Document</title>
 </head>
 <body class="bg-dark">
-
+<!-- this form for update products -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 m-auto">
